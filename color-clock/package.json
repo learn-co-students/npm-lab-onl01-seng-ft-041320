@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "echo 'Hello World!'"
+    },
+    "dependencies": {
+        "moment": "^2.27.0"
+    }
+}
